@@ -1,0 +1,31 @@
+/* This is the lexend font */
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+/* This is a another font */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.lexend {
+    font-family: "Lexend", sans-serif;
+
+}
+
+.fira-sans {
+    font-family: "Fira Sans", sans-serif;
+}
+
+.imported-style {
+    border-radius: 24px;
+
+    background: linear-gradient(0.00deg, rgba(21, 11, 43, 0.9), rgba(21, 11, 43, 0) 100%), url(203);
+}
+
+.recipe-card-box {
+    box-sizing: border-box;
+    border: 1px solid rgba(40, 40, 40, 0.2);
+    border-radius: 16px;
+
+}
+
+.table-row-bg {
+    background: rgba(40, 40, 40, 0.03);
+}

@@ -1,0 +1,96 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Lemon Garlic Chicken",
+        "short_description": "A zesty and flavorful chicken dish that's perfect for any occasion.",
+        "ingredients": [
+            "550 g chicken",
+            "4 cloves garlic, minced",
+            "2 lemons, juiced",
+            "3 tbsp olive oil",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 40,
+        "calories": 320,
+        "recipe_image": "https://i.postimg.cc/T190kmJt/Lemon-Garlic-Chicken.jpg"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Vegetable Stir-Fry",
+        "short_description": "A colorful and nutritious stir-fry packed with fresh vegetables and tofu.",
+        "ingredients": [
+            "200 g tofu, cubed",
+            "1 red bell pepper, sliced",
+            "1 green bell pepper, sliced",
+            "1 cup broccoli florets",
+            "2 tbsp soy sauce",
+            "1 tbsp sesame oil"
+        ],
+        "preparing_time": 25,
+        "calories": 250,
+        "recipe_image": "https://i.postimg.cc/bvfPbD3Z/Vegetable-Stir-Fry.jpg"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "A classic Italian pasta dish featuring creamy sauce, crispy bacon, and Parmesan cheese.",
+        "ingredients": [
+            "400 g spaghetti",
+            "200 g pancetta or bacon, diced",
+            "4 eggs",
+            "1 cup grated Parmesan cheese",
+            "2 cloves garlic, minced"
+        ],
+        "preparing_time": 30,
+        "calories": 420,
+        "recipe_image": "https://i.postimg.cc/yxkhT5W8/Spaghetti-Carbonara.jpg"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Mango Avocado Salad",
+        "short_description": "A refreshing salad bursting with tropical flavors, perfect for summer.",
+        "ingredients": [
+            "2 ripe mangoes, diced",
+            "2 ripe avocados, diced",
+            "1/4 cup red onion, thinly sliced",
+            "1/4 cup cilantro, chopped",
+            "2 tbsp lime juice",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 15,
+        "calories": 180,
+        "recipe_image": "https://i.postimg.cc/Jn75stLJ/Mango-Avocado-Salad.jpg"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Beef Chili",
+        "short_description": "A hearty and satisfying chili packed with ground beef, beans, and spices.",
+        "ingredients": [
+            "500 g ground beef",
+            "1 can (400 g) kidney beans, drained and rinsed",
+            "1 can (400 g) diced tomatoes",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "2 tbsp chili powder"
+        ],
+        "preparing_time": 50,
+        "calories": 380,
+        "recipe_image": "https://i.postimg.cc/HsFz6pwD/Beef-Chili.jpg"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Banana Bread",
+        "short_description": "A moist and flavorful banana bread that's perfect for breakfast or snacking.",
+        "ingredients": [
+            "3 ripe bananas, mashed",
+            "1/2 cup unsalted butter, melted",
+            "1/2 cup brown sugar",
+            "2 eggs",
+            "1 tsp vanilla extract",
+            "1 1/2 cups all-purpose flour"
+        ],
+        "preparing_time": 60,
+        "calories": 220,
+        "recipe_image": "https://i.postimg.cc/Y00Bk1qs/Banana-Bread.jpg"
+    }
+]
